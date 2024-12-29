@@ -6,13 +6,24 @@
     <description>Recent content on Laboras</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Dec 2024 18:22:18 +0200</lastBuildDate><atom:link href="https://jankunasjr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Dec 2024 20:24:51 +0200</lastBuildDate><atom:link href="https://jankunasjr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antras</title>
+      <link>https://jankunasjr.github.io/antras/</link>
+      <pubDate>Sun, 29 Dec 2024 20:24:51 +0200</pubDate>
+      
+      <guid>https://jankunasjr.github.io/antras/</guid>
+      <description>&lt;p&gt;Antras puslapis&lt;/p&gt;</description>
+      <content>&lt;p&gt;Antras puslapis&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Testas</title>
-      <link>https://jankunasjr.github.io/posts/testas/</link>
+      <link>https://jankunasjr.github.io/testas/</link>
       <pubDate>Sun, 29 Dec 2024 18:22:18 +0200</pubDate>
       
-      <guid>https://jankunasjr.github.io/posts/testas/</guid>
+      <guid>https://jankunasjr.github.io/testas/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://jankunasjr.github.io/images/images.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;calculate_sum&lt;/span&gt;(numbers):
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; sum(numbers)
